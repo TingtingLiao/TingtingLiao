@@ -3,19 +3,19 @@
 
 <p align="center">
   <a href="https://twitter.com/tingtin36139994" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=77ac98" alt="Twitter"/>
   </a> 
   <a href='https://scholar.google.com/citations?user=sNp7dWUAAAAJ&hl=en' target="_blank">
-        <img alt='Scholar' src='https://img.shields.io/badge/Scholar-100000?style=for-the-badge&logo=GoogleScholar&logoColor=white&&color=071A2C'>
+        <img alt='Scholar' src='https://img.shields.io/badge/Scholar-100000?style=for-the-badge&logo=GoogleScholar&logoColor=white&&color=77ac98'>
   </a>
   <a href="https://tingtingliao.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/website-%23071A2C.svg?&style=for-the-badge&logo=website&color=071A2C" alt="Website"/>
+    <img src="https://img.shields.io/badge/website-%23071A2C.svg?&style=for-the-badge&logo=website&color=77ac98" alt="Website"/>
   </a>
 <a href="https://github.com/TingtingLiao" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23071A2C.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-%23071A2C.svg?&style=for-the-badge&logo=github&logoColor=white&color=77ac98" alt="GitHub"/>
   </a>
   <a href="mailto:tingtingliao000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-red?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-red?&style=for-the-badge&logo=gmail&logoColor=white&color=77ac98" alt="Email"/>
   </a>
 </p>
 
@@ -41,4 +41,5 @@ Here are some ideas to get you started:
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![TingtingLiao's github stats](https://github-readme-stats.vercel.app/api?username=TingtingLiao&show_icons=true&theme=dracula&bg_color=0,E6E6FA,D8BFD8,DDA0DD)
+![TingtingLiao's github stats](https://github-readme-stats.vercel.app/api?username=TingtingLiao&show_icons=true&theme=dracula&bg_color=0,cde6c7,D8BFD8,D8BFD8)
+
