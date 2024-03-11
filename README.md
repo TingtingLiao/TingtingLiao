@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![TingtingLiao's github stats](https://github-readme-stats.vercel.app/api?username=TingtingLiao&show_icons=true&theme=dracula&bg_color=0,E6E6FA,E6E6FA,D8BFD8,DDA0DD)
+![TingtingLiao's github stats](https://github-readme-stats.vercel.app/api?username=TingtingLiao&show_icons=true&theme=dracula&bg_color=0,E6E6FA,E6E6FA,E6E6FA)
 
 
