@@ -1,5 +1,23 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Tingting Liao 👋
 
+<p align="center">
+  <a href="https://twitter.com/tingtin36139994" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+  </a> 
+  <a href='https://scholar.google.com/citations?user=7MocPGkAAAAJ&hl=en' target="_blank">
+        <img alt='Scholar' src='https://img.shields.io/badge/Scholar-100000?style=for-the-badge&logo=GoogleScholar&logoColor=white&&color=071A2C'>
+  </a>
+  <a href="https://tingtingliao.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/website-%23071A2C.svg?&style=for-the-badge&logo=website&color=071A2C" alt="Website"/>
+  </a>
+<a href="https://github.com/TingtingLiao" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23071A2C.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="GitHub"/>
+  </a>
+  <a href="mailto:tingtingliao000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-red?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Email"/>
+  </a>
+</p>
+
 ![motion](https://github.com/TingtingLiao/TingtingLiao/assets/45743512/8c38e14b-414b-477b-9492-a82ce4fc9297)
 
 <!--
