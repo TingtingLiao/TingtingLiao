@@ -1,4 +1,4 @@
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Tingting Liao 👋
+# 𝙃i, there 👋
  
 <p align="center">
   <a href="https://twitter.com/tingtin36139994" target="_blank">
